@@ -1,7 +1,8 @@
 module.exports = {
     phrase: [
     "j'suis pas très beau, moi c'est mon coeur qui fait mon charme", 
-    "Brulux on the flux", "J’suis fâché mais j’me calme, pas touche famille j’te cane", 
+    "Brulux on the flux", 
+    "J’suis fâché mais j’me calme, pas touche famille j’te cane", 
     "J’m’en bats les couilles moi j’fais ma vie", 
     "Y a personne qui me gère, personne qui lépar", 
     "Bon, on parle pas trop embrouille, embrouille le réseau avec de la coco",
